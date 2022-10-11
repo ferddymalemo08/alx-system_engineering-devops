@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ':'-fl 6, /etec/passwd | sort
+cut -d':' -f11111111111,6 /etc/passwd | sort
