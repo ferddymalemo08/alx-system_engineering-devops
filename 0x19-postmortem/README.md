@@ -44,4 +44,4 @@ This project highlighted the importance of thorough debugging and performance op
 
 ## Conclusion:
 The web stack debugging project served as a valuable learning experience for the ALX Software Engineering team. Through meticulous investigation, strategic fixes, and performance enhancements, the team successfully identified and resolved the issues, ultimately improving the application's stability and user experience. The lessons learned from this project will be instrumental in guiding future development and debugging efforts to deliver robust and high-performing web applications.
-
+://docs.google.com/document/d/1MH6lm-a8vAQ-q74qXY5t3aCqYOvSqA1KX1xx4H4bg5E/edit?usp=sharing
